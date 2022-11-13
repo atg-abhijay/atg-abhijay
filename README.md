@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here are some online courses that I've taken recently:
+:eye: I'm a software developer working in the e-commerce space :shopping:
+
+:notebook: Here are some online courses that I've taken recently:
 |  | Course |
 | ------ | ------ |
 | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git badge"> | [<b>Git: The Big Picture</b>](https://app.pluralsight.com/library/courses/git-big-picture/table-of-contents) |
@@ -11,8 +13,9 @@ Here are some online courses that I've taken recently:
 | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge"><br><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python badge"> | [<b>Developing Python 3 Apps <br>with Docker</b>](https://app.pluralsight.com/library/courses/python-apps-docker-developing/table-of-contents) |
 | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge"> | [<b>Docker Deep Dive</b>](https://app.pluralsight.com/library/courses/docker-deep-dive-update/table-of-contents) |
 
-:star: I'm also working on creating a [mind map](https://mm.tt/map/2472991067?t=YtyTIjeMRS) for Docker.
+:star: I'm also working on creating a [mind map](https://mm.tt/map/2472991067?t=YtyTIjeMRS) for Docker!
 
+😄 My pronouns are he/him.
 <!--
 Here are some ideas to get you started:
 
