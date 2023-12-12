@@ -13,7 +13,7 @@
 | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge"><br><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python badge"> | [<b>Developing Python 3 Apps <br>with Docker</b>](https://app.pluralsight.com/library/courses/python-apps-docker-developing/table-of-contents) |
 | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge"> | [<b>Docker Deep Dive</b>](https://app.pluralsight.com/library/courses/docker-deep-dive-update/table-of-contents) |
 
-:star: I'm also working on creating a [mind map](https://mm.tt/map/2472991067?t=YtyTIjeMRS) for Docker!
+:star: I'm also working on creating a [mind map](https://mm.tt/map/2472991067?t=YtyTIjeMRS) for Docker and a [mind map](https://mm.tt/app/map/3014780670?t=OnzasUc2MW) for Google Cloud Platform!
 
 😄 My pronouns are he/him.
 <!--
